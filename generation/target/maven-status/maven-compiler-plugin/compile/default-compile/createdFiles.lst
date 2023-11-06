@@ -1,0 +1,6 @@
+com\desafiopratico\generation\resources\AlunoResource.class
+com\desafiopratico\generation\GenerationApplication.class
+com\desafiopratico\generation\config\SwaggerConfig.class
+com\desafiopratico\generation\error\error.class
+com\desafiopratico\generation\model\Aluno.class
+com\desafiopratico\generation\repository\AlunoRepository.class
